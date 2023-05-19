@@ -1,6 +1,6 @@
 # Artistall
 
-01/2023 - 4/2023
+01 / 2023 - 04 / 2023
 
 Develhope school team project
 
