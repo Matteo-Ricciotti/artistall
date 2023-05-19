@@ -1,4 +1,5 @@
 # Artistproject
 
-This is a project developed for Develhope school
+01/2023 - 4/2023
 
+Develhope school team project
